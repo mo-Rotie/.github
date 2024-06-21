@@ -8,8 +8,6 @@ Hello all of us from the C241-PS264 team, this project is the final project of o
 Our project called mo-Rotie focuses on the health sector. Our app detects mold in bread to reduce the risk of illness from consuming bread that has been contaminated by mold.
 
 ## Team Description
-
-## Team
 Our team consists of 7 People:
 | Full Name  | Bangkit ID | Role |
 | ------------- | ------------- | ------------- |
